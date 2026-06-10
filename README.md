@@ -4,6 +4,11 @@ A RAG (Retrieval-Augmented Generation) chatbot that helps farmers understand gov
 
 ---
 
+## Demo
+
+![AgriRAG Chatbot - PM-KISAN Query](screenshots/demo1.png)
+![AgriRAG Chatbot - PMFBY Query](screenshots/demo2.png)
+
 ## What It Does
 
 - Reads government policy PDFs and stores them in a local vector database
@@ -185,7 +190,7 @@ python ingest_policies.py
 
 ---
 
-## Team
+
 
 ## Team
 Built as an academic project by 6 CSE Data Science students at
