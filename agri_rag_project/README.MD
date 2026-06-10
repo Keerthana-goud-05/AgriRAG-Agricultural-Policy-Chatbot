@@ -56,8 +56,7 @@ agri_rag_project/
 ### 1. Clone or download the project
 
 ```
-git clone https://github.com/your-username/agri-rag-chatbot.git
-cd agri-rag-chatbot
+git clone https://github.com/Keerthana-goud-05/AgriRAG-Agricultural-Policy-Chatbot.git
 ```
 
 ### 2. Create a virtual environment
@@ -188,7 +187,9 @@ python ingest_policies.py
 
 ## Team
 
-Built as an academic project by a team of 6 students.
+## Team
+Built as an academic project by 6 CSE Data Science students at
+C.R. Rao AIMSCS, University of Hyderabad (2026).
 
 ---
 
